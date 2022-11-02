@@ -1,0 +1,9 @@
+train: 
+  - /data/celery/Dataset/CucumberData_V2/images
+val:
+  - /data/celery/Dataset/CucumberData_V2/images
+
+nc: 10
+
+names: ['01_Powdery_Mildew', '02_Gray_Mold', '03_Anthracnose','08_Downy_Mildew', '09_Corynespora_Leaf_Spot', '17_Gummy_stem_blight',
+'20_Bacterial_Spot','22_CCYV','23_Mosaic_diseases','24_MYSV']

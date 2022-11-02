@@ -1,0 +1,9 @@
+train: /data/agri/leaf_face_detection/tomato_annotation_dataset_v2/train/images
+val: /data/agri/leaf_face_detection/tomato_annotation_dataset_v2/train/images
+
+# number of classes
+nc: 9
+
+# class names
+names: [ 'Bacterial Canker', 'Bacterial Wilt', 'Cercospora Leaf Mold', 'Corynespora Target Spot', 
+'Gray Mold', 'Late Blight', 'Leaf Mold', 'Powdery Mildew', 'Yellow Leaf Curl' ]
